@@ -1,0 +1,14 @@
+C:\Users\KoelSYS\source\repos\OrtaCagIrkları\OrtaCagIrkları\obj\Debug\OrtaCagIrkları.csproj.AssemblyReference.cache
+C:\Users\KoelSYS\source\repos\OrtaCagIrkları\OrtaCagIrkları\obj\Debug\OrtaCagIrkları.csproj.CoreCompileInputs.cache
+C:\Users\KoelSYS\source\repos\OrtaCagIrkları\OrtaCagIrkları\bin\Debug\OrtaCagIrkları.exe.config
+C:\Users\KoelSYS\source\repos\OrtaCagIrkları\OrtaCagIrkları\bin\Debug\OrtaCagIrkları.exe
+C:\Users\KoelSYS\source\repos\OrtaCagIrkları\OrtaCagIrkları\bin\Debug\OrtaCagIrkları.pdb
+C:\Users\KoelSYS\source\repos\OrtaCagIrkları\OrtaCagIrkları\obj\Debug\OrtaCagIrkları.exe
+C:\Users\KoelSYS\source\repos\OrtaCagIrkları\OrtaCagIrkları\obj\Debug\OrtaCagIrkları.pdb
+C:\Users\gulul\OneDrive\Masaüstü\C#\C# Kolay Örnekler\OrtaCagIrkları\OrtaCagIrkları\bin\Debug\OrtaCagIrkları.exe.config
+C:\Users\gulul\OneDrive\Masaüstü\C#\C# Kolay Örnekler\OrtaCagIrkları\OrtaCagIrkları\bin\Debug\OrtaCagIrkları.exe
+C:\Users\gulul\OneDrive\Masaüstü\C#\C# Kolay Örnekler\OrtaCagIrkları\OrtaCagIrkları\bin\Debug\OrtaCagIrkları.pdb
+C:\Users\gulul\OneDrive\Masaüstü\C#\C# Kolay Örnekler\OrtaCagIrkları\OrtaCagIrkları\obj\Debug\OrtaCagIrkları.csproj.AssemblyReference.cache
+C:\Users\gulul\OneDrive\Masaüstü\C#\C# Kolay Örnekler\OrtaCagIrkları\OrtaCagIrkları\obj\Debug\OrtaCagIrkları.csproj.CoreCompileInputs.cache
+C:\Users\gulul\OneDrive\Masaüstü\C#\C# Kolay Örnekler\OrtaCagIrkları\OrtaCagIrkları\obj\Debug\OrtaCagIrkları.exe
+C:\Users\gulul\OneDrive\Masaüstü\C#\C# Kolay Örnekler\OrtaCagIrkları\OrtaCagIrkları\obj\Debug\OrtaCagIrkları.pdb

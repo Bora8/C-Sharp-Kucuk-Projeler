@@ -1,0 +1,7 @@
+C:\Users\KoelSYS\source\repos\ArabaYönetimSistemi\ArabaYönetimSistemi\bin\Debug\ArabaYönetimSistemi.exe.config
+C:\Users\KoelSYS\source\repos\ArabaYönetimSistemi\ArabaYönetimSistemi\bin\Debug\ArabaYönetimSistemi.exe
+C:\Users\KoelSYS\source\repos\ArabaYönetimSistemi\ArabaYönetimSistemi\bin\Debug\ArabaYönetimSistemi.pdb
+C:\Users\KoelSYS\source\repos\ArabaYönetimSistemi\ArabaYönetimSistemi\obj\Debug\ArabaYönetimSistemi.csproj.AssemblyReference.cache
+C:\Users\KoelSYS\source\repos\ArabaYönetimSistemi\ArabaYönetimSistemi\obj\Debug\ArabaYönetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\KoelSYS\source\repos\ArabaYönetimSistemi\ArabaYönetimSistemi\obj\Debug\ArabaYönetimSistemi.exe
+C:\Users\KoelSYS\source\repos\ArabaYönetimSistemi\ArabaYönetimSistemi\obj\Debug\ArabaYönetimSistemi.pdb
